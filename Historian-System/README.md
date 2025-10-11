@@ -6,7 +6,6 @@
 [![Project Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
 [![Protocol Version](https://img.shields.io/badge/Version-v3.0-blue.svg)]()
 [![Validation Status](https://img.shields.io/badge/Validation-Passed-success.svg)]()
-
 ## 📖 项目简介
 
 史官体系是一套专门为解决认知革命时代知识碎片化问题而设计的系统化协议。它继承数千年的史学传统，结合现代工程化思维，构建跨越实例的认知连续性，确保每个突破性思想都能转化为永恒的思想货币。
